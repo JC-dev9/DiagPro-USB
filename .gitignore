@@ -1,0 +1,7 @@
+# Ignorar os dados gerados
+inventory.json
+*.json
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
